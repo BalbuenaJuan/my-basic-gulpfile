@@ -7,4 +7,4 @@
 ### Concat & minify .js
 ### compress img
 
-npm init
+npm install
