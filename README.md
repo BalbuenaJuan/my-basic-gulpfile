@@ -1,6 +1,6 @@
 # My basic gulp file to:
 
-### Watch stylus
+### Compile stylus
 ### Prefix .css
 ### Minify .css
 ### Run Webserver
